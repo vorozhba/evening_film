@@ -17,3 +17,6 @@
 
 ### Пример:
 ![Окно программы](https://github.com/vorozhba/evening_film/blob/master/figures/example.png)
+
+### RSpec:
+Тесты находятся в файле: `spec/film_spec.rb`
